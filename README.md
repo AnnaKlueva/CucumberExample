@@ -11,7 +11,7 @@
 
 - example of CucumberOptions + Cucumber runner
 
-Additional info (CucumberOptions):
+<h4> Additional info (CucumberOptions):</h4>
 
 - features – path to the folder with .feature files.<br>
  Framework will looking for the files in this folder and all subfolders. <br> 
